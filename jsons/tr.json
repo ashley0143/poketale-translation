@@ -1,3 +1,12 @@
 {
-
+"NO_PERMISSON_TR":":x: Yeterli yetkin yok m8!",
+"MUSIC_START_TR":"MÜZÜK BAŞLADI",
+"RADIO_PLAY":"🎧 | Başarılı! [RADIO] çalınıyor.",
+"TAGS":{
+"TAG_ACTIVATED":"yuh aktifleştirdin"
+"TAG_NO_ARGUMENTS":"`işlemler şunlar yuh:[\`aktifleştir\`, \`kapat\`,\`düzenle\`,\`ekle\`, \`listele\`, \`kaldır\`, \`kanal engel\`] \n tag embed seçenkleri:[\`embed-ekle\`, \`embed-resim-ekle\` ,\`embed-düzenle\`]`"
+"ADD_NEW_TAG":{
+  "NEW_TAG_NOT_ACTIVE":"puhahah aktifleştirmemişsin za",
+},
+},
 }
